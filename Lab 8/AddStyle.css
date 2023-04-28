@@ -1,0 +1,50 @@
+﻿body {
+    background-color: aliceblue;
+    font-family:'Arial Rounded MT';
+}
+#choosetime {
+    width: 170px;
+    height: 30px;
+}
+
+#stulabel {
+    padding-right: 6px;
+}
+#addbtn {
+    width: 50px;
+    height: 30px;
+    background-color:aquamarine;
+    border: none;
+}
+
+    #addbtn:hover {
+        border: solid;
+        border-color: aquamarine;
+        background-color: aliceblue;
+    }
+
+#stutbl {
+    border-collapse: collapse;
+    width: 400px;
+    margin-bottom: 20px;
+    background-color: aquamarine
+}
+
+    #stutbl th {
+        background-color:darkgrey;
+        color: white;
+        text-align: left;
+        padding: 8px;
+    }
+
+#coltormv {
+    transform: translateX(150px);
+}
+#mainhead {
+    border: solid;
+    border-color: aquamarine
+}
+#err {
+    color:darkred;
+    font-weight:800;
+}

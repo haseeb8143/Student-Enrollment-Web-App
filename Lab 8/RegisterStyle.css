@@ -1,0 +1,23 @@
+﻿body {
+    background-color: aliceblue;
+    font-family: 'Arial Rounded MT';
+}
+#button {
+    width: 60px;
+    height: 30px;
+    background-color: aquamarine;
+    border: none;
+}
+#button:hover {
+    border: solid;
+    border-color: aquamarine;
+    background-color: aliceblue;
+}
+#mainhead{
+    border:solid;
+    border-color: aquamarine
+}
+#confirm{
+    color:mediumblue;
+    font-weight: 800;
+}
